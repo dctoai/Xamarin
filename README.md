@@ -1,2 +1,2 @@
 # Xamarin
-learning xamarin
+learning xamarin some thing to do
